@@ -1,0 +1,21 @@
+{
+  "symbol": "PHRYGES",
+  "address": "0x55c6534a7e0992311e762730f77774f53d9c90cf,
+  "overview":{
+        "en": "The Mascots meme of the 2024 Summer Olympics and 2024 Summer Paralympics (Paris). Make Ethereum Great Again!",
+        "zh": "2024巴黎奥运会与残奥运吉祥物meme，让Ethereum重回荣光"
+  },
+  "email": "phryges.world@gmail.com",
+  "website": "https://www.phryges.world/",
+  "whitepaper": "https://www.phryges.world/",
+  "state": "NORMAL",
+  "published_on": "2024-05-23",
+  "initial_price":{
+        "ETH":"0.000000000006645 ETH",
+        "USD":"0.0000000206 USD",
+  },
+  "links": {
+    "twitter": "https://x.com/ThePhryges",
+    "telegram": "https://t.me/PhrygesETH",
+  }
+}
